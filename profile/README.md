@@ -1,4 +1,3 @@
-
 # 🚀 Nekerit Team
 
 <div align="center">
@@ -29,6 +28,7 @@ Crear aplicaciones y herramientas que marquen la diferencia, utilizando las últ
 ### Lenguajes de Programación
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -38,6 +38,8 @@ Crear aplicaciones y herramientas que marquen la diferencia, utilizando las últ
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Zig](https://img.shields.io/badge/-Zig-F7A41D?style=flat-square&logo=zig&logoColor=white)
+![Haxe](https://img.shields.io/badge/-Haxe-EA8220?style=flat-square&logo=haxe&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### Frontend & Web
@@ -45,6 +47,11 @@ Crear aplicaciones y herramientas que marquen la diferencia, utilizando las últ
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+
+### Runtime & Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 
 ### Frameworks Python
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -64,13 +71,22 @@ Crear aplicaciones y herramientas que marquen la diferencia, utilizando las últ
 
 ### Frameworks Java
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Swing](https://img.shields.io/badge/-Swing-007396?style=flat-square&logo=java&logoColor=white)
+
+### Herramientas Java
+![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
 
 ### Frameworks PHP
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
 ### Go Libraries
 ![Gin](https://img.shields.io/badge/-Gin-00ADD8?style=flat-square&logoColor=white)
+![Gin-Gonic](https://img.shields.io/badge/-Gin--Gonic-00ADD8?style=flat-square&logoColor=white)
 ![GORM](https://img.shields.io/badge/-GORM-00ADD8?style=flat-square&logoColor=white)
+![Viper](https://img.shields.io/badge/-Viper-00ADD8?style=flat-square&logoColor=white)
+
+### Haxe Libraries
+![Heaps](https://img.shields.io/badge/-Heaps-EA8220?style=flat-square&logoColor=white)
 
 ### Mobile & Cross-Platform
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
@@ -81,9 +97,23 @@ Crear aplicaciones y herramientas que marquen la diferencia, utilizando las últ
 ### Bases de Datos
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+### Message Brokers & Streaming
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+
+### Arquitectura
+![Microservices](https://img.shields.io/badge/-Microservices-FF6B35?style=flat-square&logoColor=white)
 
 ### Automatización & Integraciones
 ![N8N](https://img.shields.io/badge/-N8N-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+### APIs & Protocolos
+![REST API](https://img.shields.io/badge/-REST%20API-FF6B35?style=flat-square&logoColor=white)
 
 ### Tecnologías Adicionales
 ![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=flat-square&logoColor=white)
@@ -108,7 +138,7 @@ Siempre estamos buscando talento apasionado. Si tienes experiencia en:
 - 🗄️ **Bases de datos y servidores**
 - 🔒 **Ciberseguridad**
 - 🤖 **Desarrollo en Discord**
-- � **Gestión de proyectos**: organiza, coordina y asegura que todo funcione
+- 📋 **Gestión de proyectos**: organiza, coordina y asegura que todo funcione
 
 ¡Solicítalo! Rellena el formulario y únete a servidor de discord para saber si te hemos aceptado!
 
@@ -141,7 +171,3 @@ Nuestros proyectos open source están licenciados bajo [MIT License](https://mit
 *"Innovando juntos, construyendo el futuro"*
 
 </div>
-
-
-
-
