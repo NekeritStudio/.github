@@ -49,6 +49,12 @@ Crear aplicaciones y herramientas que marquen la diferencia, utilizando las últ
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Lit Element](https://img.shields.io/badge/-Lit%20Element-324FFF?style=for-the-badge&logo=lit&logoColor=white)
+![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 
 ### Runtime & Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -69,16 +75,30 @@ Crear aplicaciones y herramientas que marquen la diferencia, utilizando las últ
 ![Uvicorn](https://img.shields.io/badge/-Uvicorn-009688?style=for-the-badge&logoColor=white)
 ![Alembic](https://img.shields.io/badge/-Alembic-FF6B6B?style=for-the-badge&logoColor=white)
 ![mysqlclient](https://img.shields.io/badge/-mysqlclient-4479A1?style=for-the-badge&logoColor=white)
+![Requests](https://img.shields.io/badge/-Requests-FF6B6B?style=for-the-badge&logoColor=white)
+![Tkinter](https://img.shields.io/badge/-Tkinter-3776AB?style=for-the-badge&logoColor=white)
 
 ### Frameworks Java
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Framework](https://img.shields.io/badge/-Spring%20Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Java EE](https://img.shields.io/badge/-Java%20EE-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Swing](https://img.shields.io/badge/-Swing-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ### Herramientas Java
 ![Maven](https://img.shields.io/badge/-Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 
+### Android Development
+![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Retrofit](https://img.shields.io/badge/-Retrofit-48B983?style=for-the-badge&logoColor=white)
+![Room](https://img.shields.io/badge/-Room-4285F4?style=for-the-badge&logoColor=white)
+![Coroutines & Flow](https://img.shields.io/badge/-Coroutines%20%26%20Flow-7F52FF?style=for-the-badge&logoColor=white)
+
 ### Frameworks PHP
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Symfony](https://img.shields.io/badge/-Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+
+### JavaScript Frameworks Node.js
+![AdonisJS](https://img.shields.io/badge/-AdonisJS-220052?style=for-the-badge&logo=adonisjs&logoColor=white)
 
 ### Go Libraries
 ![Gin](https://img.shields.io/badge/-Gin-00ADD8?style=for-the-badge&logoColor=white)
@@ -91,9 +111,13 @@ Crear aplicaciones y herramientas que marquen la diferencia, utilizando las últ
 
 ### Mobile & Cross-Platform
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Tauri](https://img.shields.io/badge/-Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=white)
 
 ### .NET Framework
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/-Entity%20Framework%20Core-512BD4?style=for-the-badge&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 ### Bases de Datos
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
@@ -102,13 +126,23 @@ Crear aplicaciones y herramientas que marquen la diferencia, utilizando las últ
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase Firestore](https://img.shields.io/badge/-Firebase%20Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Cloud & Services
+![Firebase SDK](https://img.shields.io/badge/-Firebase%20SDK-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 ### Message Brokers & Streaming
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
-### Arquitectura
+### Containerización
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Arquitectura & Metodologías
 ![Microservices](https://img.shields.io/badge/-Microservices-FF6B35?style=for-the-badge&logoColor=white)
+![Scrum](https://img.shields.io/badge/-Scrum-6CB33E?style=for-the-badge&logoColor=white)
+![Low-Code](https://img.shields.io/badge/-Low--Code-FF6B35?style=for-the-badge&logoColor=white)
 
 ### Automatización & Integraciones
 ![N8N](https://img.shields.io/badge/-N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
@@ -119,7 +153,6 @@ Crear aplicaciones y herramientas que marquen la diferencia, utilizando las últ
 ### Tecnologías Adicionales
 ![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=for-the-badge&logoColor=white)
 ![Goroutines](https://img.shields.io/badge/-Goroutines-00ADD8?style=for-the-badge&logoColor=white)
-
 </div>
 
 ### 💼 ¿Buscas Unirte al Equipo?
