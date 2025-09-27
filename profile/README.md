@@ -23,7 +23,6 @@ Crear aplicaciones y herramientas que marquen la diferencia, utilizando las últ
 </div>
 
 <div align="center">
-
 ## 🛠️ Tecnologías que Utilizamos
 
 ### Lenguajes de Programación
@@ -39,14 +38,14 @@ Crear aplicaciones y herramientas que marquen la diferencia, utilizando las últ
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Zig](https://img.shields.io/badge/-Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white)
-![Haxe](https://img.shields.io/badge/-Haxe-EA8220?style=for-the-badge&logo=haxe&logoColor=white)
+![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Frontend & Web
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
@@ -106,9 +105,6 @@ Crear aplicaciones y herramientas que marquen la diferencia, utilizando las últ
 ![GORM](https://img.shields.io/badge/-GORM-00ADD8?style=for-the-badge&logoColor=white)
 ![Viper](https://img.shields.io/badge/-Viper-00ADD8?style=for-the-badge&logoColor=white)
 
-### Haxe Libraries
-![Heaps](https://img.shields.io/badge/-Heaps-EA8220?style=for-the-badge&logoColor=white)
-
 ### Mobile & Cross-Platform
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Tauri](https://img.shields.io/badge/-Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=white)
@@ -117,6 +113,7 @@ Crear aplicaciones y herramientas que marquen la diferencia, utilizando las últ
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework Core](https://img.shields.io/badge/-Entity%20Framework%20Core-512BD4?style=for-the-badge&logoColor=white)
+![WPF](https://img.shields.io/badge/-WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 ### Bases de Datos
@@ -136,8 +133,10 @@ Crear aplicaciones y herramientas que marquen la diferencia, utilizando las últ
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
-### Containerización
+### Containerización & DevOps
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Pterodactyl](https://img.shields.io/badge/-Pterodactyl-0E4688?style=for-the-badge&logoColor=white)
+![Jexactyl](https://img.shields.io/badge/-Jexactyl-FF6B35?style=for-the-badge&logoColor=white)
 
 ### Arquitectura & Metodologías
 ![Microservices](https://img.shields.io/badge/-Microservices-FF6B35?style=for-the-badge&logoColor=white)
@@ -153,7 +152,9 @@ Crear aplicaciones y herramientas que marquen la diferencia, utilizando las últ
 ### Tecnologías Adicionales
 ![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=for-the-badge&logoColor=white)
 ![Goroutines](https://img.shields.io/badge/-Goroutines-00ADD8?style=for-the-badge&logoColor=white)
-</div>
+
+### Herramientas de Diseño
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 💼 ¿Buscas Unirte al Equipo?
 
