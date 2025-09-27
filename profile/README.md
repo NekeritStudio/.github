@@ -156,6 +156,8 @@ Crear aplicaciones y herramientas que marquen la diferencia, utilizando las últ
 ### Herramientas de Diseño
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+</div>
+
 ### 💼 ¿Buscas Unirte al Equipo?
 
 Siempre estamos buscando talento apasionado. Si tienes experiencia en:
